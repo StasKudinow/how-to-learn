@@ -8,9 +8,11 @@
   right: 48px;
   bottom: 390px;
   color: #2f80ed;
+  transition: opacity 0.6s ease-in;
   z-index: 2;
 }
 
 .feynman__link:hover {
   color: #c71585;
+  opacity: 0.5;
 }

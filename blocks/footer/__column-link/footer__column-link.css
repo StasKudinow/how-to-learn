@@ -4,8 +4,10 @@
   font-weight: normal;
   text-decoration: none;
   color: #fff;
+  transition: opacity 0.6s ease-in;
 }
 
 .footer__column-link:hover {
   color: #c71585;
+  opacity: 0.5;
 }

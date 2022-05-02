@@ -6,5 +6,6 @@
   position: absolute;
   top: 0;
   right: -210px;
+  animation: rotation 20s infinite normal linear;
   z-index: 1;
 }
