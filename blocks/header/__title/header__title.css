@@ -4,7 +4,6 @@
   line-height: 96px;
   font-weight: 700;
   margin: 0;
-  position: absolute;
-  left: 64px;
+  margin-left: 64px;
   z-index: 2;
 }

@@ -1,8 +1,16 @@
 @keyframes rotation {
-    from {
-        transform: rotate(0deg);
-    }
-    to {
-        transform: rotate(360deg);
-    }
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.header__square-pic {
+  animation: rotation 20s infinite normal linear;
+}
+
+.kaufman__triangle {
+  animation: rotation 20s infinite normal linear;
 }
