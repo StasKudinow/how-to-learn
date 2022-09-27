@@ -23,3 +23,4 @@
 * __БЭМ Nested__.
 
 ## __URL:__
+[GitHub Pages](https://staskudinow.github.io/how-to-learn/)
