@@ -24,5 +24,3 @@
 
 ## __URL:__
 [GitHub Pages](https://staskudinow.github.io/how-to-learn/)
-(test)
-
